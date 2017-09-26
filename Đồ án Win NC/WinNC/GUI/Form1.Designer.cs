@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tabMain = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.btnPrevious = new System.Windows.Forms.Button();
@@ -107,13 +108,18 @@
             this.colTrangThai = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.btnDangXuat = new System.Windows.Forms.Button();
             this.picAvata = new System.Windows.Forms.PictureBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.listView1 = new System.Windows.Forms.ListView();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.tabMain.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabControl2.SuspendLayout();
@@ -924,6 +930,10 @@
             // 
             // tabPage5
             // 
+            this.tabPage5.Controls.Add(this.listBox1);
+            this.tabPage5.Controls.Add(this.listView1);
+            this.tabPage5.Controls.Add(this.label16);
+            this.tabPage5.Controls.Add(this.label3);
             this.tabPage5.Controls.Add(this.button4);
             this.tabPage5.Controls.Add(this.button3);
             this.tabPage5.Controls.Add(this.button2);
@@ -935,6 +945,24 @@
             this.tabPage5.TabIndex = 2;
             this.tabPage5.Text = "Khách Hàng";
             this.tabPage5.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(317, 304);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(116, 61);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "button4";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(338, 170);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(116, 61);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "button3";
+            this.button3.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -983,23 +1011,46 @@
             this.picAvata.TabIndex = 2;
             this.picAvata.TabStop = false;
             // 
-            // button3
+            // label3
             // 
-            this.button3.Location = new System.Drawing.Point(338, 170);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(116, 61);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(130, 146);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(58, 22);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "label3";
             // 
-            // button4
+            // label16
             // 
-            this.button4.Location = new System.Drawing.Point(317, 304);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(116, 61);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(117, 83);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(68, 22);
+            this.label16.TabIndex = 5;
+            this.label16.Text = "label16";
+            // 
+            // imageList1
+            // 
+            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            // 
+            // listView1
+            // 
+            this.listView1.Location = new System.Drawing.Point(79, 255);
+            this.listView1.Name = "listView1";
+            this.listView1.Size = new System.Drawing.Size(121, 97);
+            this.listView1.TabIndex = 6;
+            this.listView1.UseCompatibleStateImageBehavior = false;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Location = new System.Drawing.Point(284, 60);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(120, 84);
+            this.listBox1.TabIndex = 7;
             // 
             // frmMain
             // 
@@ -1025,6 +1076,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tabPage5.ResumeLayout(false);
+            this.tabPage5.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picAvata)).EndInit();
             this.ResumeLayout(false);
 
@@ -1118,6 +1170,11 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ImageList imageList1;
     }
 }
 

@@ -7,5 +7,10 @@ D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
 D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.Login.resources
 D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
 D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.frmMain.resources
+<<<<<<< HEAD
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
+=======
+C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
+C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
+>>>>>>> facf4a66f829746c40f4326b9bc3c6484be0b937

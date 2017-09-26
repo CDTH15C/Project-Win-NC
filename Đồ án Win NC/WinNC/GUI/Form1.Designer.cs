@@ -107,11 +107,13 @@
             this.colTrangThai = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.btnDangXuat = new System.Windows.Forms.Button();
             this.picAvata = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.tabMain.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabControl2.SuspendLayout();
@@ -922,6 +924,8 @@
             // 
             // tabPage5
             // 
+            this.tabPage5.Controls.Add(this.button4);
+            this.tabPage5.Controls.Add(this.button3);
             this.tabPage5.Controls.Add(this.button2);
             this.tabPage5.Controls.Add(this.button1);
             this.tabPage5.Location = new System.Drawing.Point(4, 29);
@@ -931,6 +935,15 @@
             this.tabPage5.TabIndex = 2;
             this.tabPage5.Text = "Khách Hàng";
             this.tabPage5.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(563, 238);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(116, 61);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -970,14 +983,23 @@
             this.picAvata.TabIndex = 2;
             this.picAvata.TabStop = false;
             // 
-            // button2
+            // button3
             // 
-            this.button2.Location = new System.Drawing.Point(563, 238);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(116, 61);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button3.Location = new System.Drawing.Point(338, 170);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(116, 61);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "button3";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(317, 304);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(116, 61);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "button4";
+            this.button4.UseVisualStyleBackColor = true;
             // 
             // frmMain
             // 
@@ -1094,6 +1116,8 @@
         private System.Windows.Forms.DataGridViewCheckBoxColumn colTrangThai_SP;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button3;
     }
 }
 

@@ -1,0 +1,5 @@
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DAO.dll
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DAO.pdb
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.dll
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.pdb

@@ -1,16 +1,11 @@
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.exe
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.pdb
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.Login.resources
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
-D:\HOC LAP TRINH\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.frmMain.resources
-<<<<<<< HEAD
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.exe
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.pdb
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.Login.resources
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
-=======
-C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
-C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
->>>>>>> facf4a66f829746c40f4326b9bc3c6484be0b937
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.ucSanPham.resources
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.frmMain.resources
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.ucAdmin.resources

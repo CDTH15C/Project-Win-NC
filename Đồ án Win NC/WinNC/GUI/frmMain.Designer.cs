@@ -31,13 +31,15 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.mnsSanPham = new System.Windows.Forms.ToolStripMenuItem();
             this.pnlMain = new System.Windows.Forms.Panel();
+            this.nhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnsSanPham});
+            this.mnsSanPham,
+            this.nhânViênToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1196, 24);
@@ -59,7 +61,12 @@
             this.pnlMain.Name = "pnlMain";
             this.pnlMain.Size = new System.Drawing.Size(1196, 492);
             this.pnlMain.TabIndex = 1;
-            this.pnlMain.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlMain_Paint);
+            // 
+            // nhânViênToolStripMenuItem
+            // 
+            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.nhânViênToolStripMenuItem.Text = "Nhân viên";
             // 
             // frmMain
             // 
@@ -83,5 +90,6 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem mnsSanPham;
         private System.Windows.Forms.Panel pnlMain;
+        private System.Windows.Forms.ToolStripMenuItem nhânViênToolStripMenuItem;
     }
 }

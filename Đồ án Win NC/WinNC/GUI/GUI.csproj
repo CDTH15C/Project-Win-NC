@@ -36,6 +36,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -66,6 +67,12 @@
     <Compile Include="ucAdmin.Designer.cs">
       <DependentUpon>ucAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="ucNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNhanVien.Designer.cs">
+      <DependentUpon>ucNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="ucSanPham.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -90,6 +97,9 @@
     </Compile>
     <EmbeddedResource Include="ucAdmin.resx">
       <DependentUpon>ucAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNhanVien.resx">
+      <DependentUpon>ucNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ucSanPham.resx">
       <DependentUpon>ucSanPham.cs</DependentUpon>

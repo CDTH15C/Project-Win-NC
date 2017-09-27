@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class ucAdmin : UserControl
+    public partial class ucNhanVien : UserControl
     {
-        public ucAdmin()
+        public ucNhanVien()
         {
             InitializeComponent();
         }

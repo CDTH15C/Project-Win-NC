@@ -9,6 +9,7 @@ C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.ucSanPham.resources
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.frmMain.resources
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.ucAdmin.resources
+<<<<<<< HEAD
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.exe
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\bin\Debug\GUI.pdb
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.frmMain.resources
@@ -20,3 +21,6 @@ C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\G
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.exe
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.pdb
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+=======
+C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\GUI\obj\x86\Debug\GUI.ucNhanVien.resources
+>>>>>>> 83ad714c281858d8493f4bd7ba0d45d485fe6d2a

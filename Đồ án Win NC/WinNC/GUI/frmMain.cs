@@ -19,13 +19,10 @@ namespace GUI
         private void mnsSanPham_Click(object sender, EventArgs e)
         {
             ucSanPham ucSP = new ucSanPham();
-            
+     
             pnlMain.Controls.Add(ucSP);
+            ucSP.Dock = DockStyle.Fill;
         }
 
-        private void pnlMain_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }

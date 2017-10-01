@@ -2,10 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace BUS
 {
     public class NhanVien_BUS
     {
+        public void ta()
+        {
+            
+        }
     }
 }

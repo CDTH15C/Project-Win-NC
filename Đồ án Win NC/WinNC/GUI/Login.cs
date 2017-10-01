@@ -6,7 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+using BUS;
 namespace GUI
 {
     public partial class Login : UserControl
@@ -18,7 +18,8 @@ namespace GUI
 
         private void Login_Load(object sender, EventArgs e)
         {
-
+            NhanVien_BUS bus = new NhanVien_BUS();
+            bus.ta();
         }
     }
 }

@@ -15,5 +15,10 @@ namespace GUI
         {
             InitializeComponent();
         }
+
+        private void ucNhanVien_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

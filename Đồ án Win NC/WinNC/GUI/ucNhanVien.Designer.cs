@@ -36,6 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "ucNhanVien";
             this.Size = new System.Drawing.Size(1110, 535);
+            this.Load += new System.EventHandler(this.ucNhanVien_Load);
             this.ResumeLayout(false);
 
         }

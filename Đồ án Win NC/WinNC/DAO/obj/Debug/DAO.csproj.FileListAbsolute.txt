@@ -5,3 +5,10 @@ C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.dll
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.pdb
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DAO.dll
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DAO.pdb
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DTO.dll
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\bin\Debug\DTO.pdb
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.dll
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DAO\obj\Debug\DAO.pdb

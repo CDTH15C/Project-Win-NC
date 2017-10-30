@@ -8,5 +8,9 @@ namespace DAO
 {
     public class NhanVien_DAO
     {
+        public void Test()
+        {
+
+        }
     }
 }

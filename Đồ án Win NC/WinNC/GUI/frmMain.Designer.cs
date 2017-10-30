@@ -30,8 +30,8 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.mnsSanPham = new System.Windows.Forms.ToolStripMenuItem();
-            this.pnlMain = new System.Windows.Forms.Panel();
             this.nhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pnlMain = new System.Windows.Forms.Panel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,6 +53,12 @@
             this.mnsSanPham.Text = "Sản phẩm";
             this.mnsSanPham.Click += new System.EventHandler(this.mnsSanPham_Click);
             // 
+            // nhânViênToolStripMenuItem
+            // 
+            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.nhânViênToolStripMenuItem.Text = "Nhân viên";
+            // 
             // pnlMain
             // 
             this.pnlMain.BackColor = System.Drawing.SystemColors.ControlDarkDark;
@@ -61,12 +67,6 @@
             this.pnlMain.Name = "pnlMain";
             this.pnlMain.Size = new System.Drawing.Size(1196, 492);
             this.pnlMain.TabIndex = 1;
-            // 
-            // nhânViênToolStripMenuItem
-            // 
-            this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
-            this.nhânViênToolStripMenuItem.Text = "Nhân viên";
             // 
             // frmMain
             // 

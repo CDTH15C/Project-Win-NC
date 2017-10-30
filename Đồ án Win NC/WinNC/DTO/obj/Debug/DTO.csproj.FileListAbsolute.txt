@@ -3,7 +3,15 @@ C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\bin
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.dll
 C:\Users\The Dark\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.pdb
+<<<<<<< HEAD
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\bin\Debug\DTO.dll
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\bin\Debug\DTO.pdb
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.dll
 C:\Users\nguye\OneDrive\Documents\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.pdb
+=======
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\bin\Debug\DTO.dll
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\bin\Debug\DTO.pdb
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.dll
+D:\GitHub\Project-Win-NC\Đồ án Win NC\WinNC\DTO\obj\Debug\DTO.pdb
+>>>>>>> fb60a70d70ff8083dbb663c9cbe0cc26e99b831e

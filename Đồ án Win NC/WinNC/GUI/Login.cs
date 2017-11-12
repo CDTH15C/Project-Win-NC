@@ -21,10 +21,20 @@ namespace GUI
             
         }
 
+        // BtnDangNhap
         private void button2_Click(object sender, EventArgs e)
         {
             NhanVien_BUS obj = new NhanVien_BUS();
-            obj.test();
+            string TenTaiKhoan = txtTenTaiKhoan.Text;
+            string MatKhau = txtMatKhau.Text;
+          if(obj.KtraDangNhap(TenTaiKhoan,MatKhau))
+            {
+                MessageBox.Show("Dang Nhap Thanh Cong...!");
+            }
+          else
+            {
+                MessageBox.Show("Dang Nhap That Bai...!");
+            }
         }
     }
 }
